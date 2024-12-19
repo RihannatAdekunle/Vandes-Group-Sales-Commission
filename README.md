@@ -16,6 +16,7 @@ The main dataset comprises the following columns:
 - **Active Status:** Indicates if the agent/manager is eligible for commissions.
 
 The dataset provides the foundation for calculating monthly and total payouts based on predefined commission structures.
+![Vandes Group Sales Dataset](https://github.com/RihannatAdekunle/Vandes-Group-Sales-Commission/blob/main/Vandes%20Group%20Sales%20Data%20-%20Copy.xlsx)
 
 ## Project Objectives
 1. Build a sales commission structure for Vandes Group's sales operations.
@@ -24,6 +25,7 @@ The dataset provides the foundation for calculating monthly and total payouts ba
    - Sales Managers
    - Third-party Affiliates
 3. Highlight monthly and total payouts for each eligible individual based on defined conditions.
+![vandes Group Sale Project](https://github.com/RihannatAdekunle/Vandes-Group-Sales-Commission/blob/main/Vandes%20Group-Sales%20Commission%20Project.docx)
 
 ## Key Features
 1. **Commission Structure:**
@@ -58,6 +60,7 @@ The dataset provides the foundation for calculating monthly and total payouts ba
   - Individual payouts for agents and managers.
   - Monthly and total affiliate commissions.
 - Insights into sales team productivity and profitable regions for the Sales Department.
+![Vandes Group Sales Commision](https://github.com/RihannatAdekunle/Vandes-Group-Sales-Commission/blob/main/Vandes%20Group%20Sales%20Commission.xlsx)
 
 ## How to Use
 1. Open the Excel file containing the sales data and commission analysis.
@@ -66,5 +69,3 @@ The dataset provides the foundation for calculating monthly and total payouts ba
 
 ---
 
-### Contact
-For more information or questions about this project, please reach out via [GitHub Issues](https://github.com).
